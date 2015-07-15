@@ -1,0 +1,17 @@
+M2Crypto==0.22.3
+argparse==1.2.1
+cffi==1.1.2
+cryptography==0.9.3
+enum34==1.0.4
+idna==2.0
+ipaddress==1.0.11
+ipython==3.2.1
+m2ext==0.1
+pep8==1.6.2
+pyOpenSSL==0.15.1
+pyasn1==0.1.8
+pycparser==2.14
+pycrypto==2.6.1
+requests==2.7.0
+six==1.9.0
+wsgiref==0.1.2
