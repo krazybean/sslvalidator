@@ -1,7 +1,7 @@
 M2Crypto==0.22.3
 argparse==1.2.1
 cffi==1.1.2
-cryptography==3.3.2
+cryptography==39.0.1
 enum34==1.0.4
 idna==2.0
 ipaddress==1.0.11
