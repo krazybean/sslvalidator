@@ -9,7 +9,7 @@ ipython==8.10.0
 m2ext==0.1
 pep8==1.6.2
 pyOpenSSL==17.5.0
-pyasn1==0.1.8
+pyasn1==0.6.3
 pycparser==2.14
 pycrypto==2.6.1
 requests==2.32.2
